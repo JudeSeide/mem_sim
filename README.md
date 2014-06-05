@@ -10,7 +10,8 @@ mem_sim -- Simuler les algorithmes de remplacements des pages
 SYNOPSIS:
 =========
 
-mem_sim *nombre_de_cadres* _cycle_ *fichier_sequence_references*
+mem_sim nombre-de-cadres cycle fichier-sequence-references
+
 ============
 DESCRIPTION:
 ============
