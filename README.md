@@ -1,5 +1,8 @@
 Algorithmes de remplacements des pages et threads.
 
+Taper _make_ dans un terminal pour builder le projet
+Taper _make clean_ pour le nettoyer
+
 =========
 OBJECTIF:
 =========
